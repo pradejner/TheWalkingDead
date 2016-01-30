@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RoadTool\Editor\RoadTool.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RainMaker\Prefab\RainShader.shader">
     <Files>
-      <File FileName="Assets\RoadTool\README.txt" Line="1" Column="1" />
-      <File FileName="Assets\RoadTool\Editor\RoadTool.cs" Line="1" Column="1" />
+      <File FileName="Assets\RainMaker\Prefab\RainScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\RainMaker\Prefab\RainShader.shader" Line="6" Column="55" />
+      <File FileName="Assets\RainMaker\Readme.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
